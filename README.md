@@ -56,7 +56,16 @@ The **Random Forest model** outperforms Logistic Regression in predicting cardia
 
 ## Dataset
 
-The dataset used for this project is included in the repository (`/data/cardiac_arrest_dataset.csv`).  
+The dataset used for this project is included in the repository (`/data/cardiac_arrest_dataset.csv`). 
+# Cardiac Arrest Prediction Model
 
+This project uses machine learning to predict the likelihood of cardiac arrest in patients based on clinical features. Two models are implemented: **Logistic Regression** and **Random Forest**, with a focus on performance evaluation using key metrics and visualizations.
 
+---
 
+## Dataset
+
+The dataset used for this project is the **Cardiac Arrest Dataset** from Kaggle:  
+[Cardiac Arrest Prediction Dataset](https://www.kaggle.com/datasets/leonidaskaragkounis/cardiac-arrest-dataset)
+
+- **File used:** `cardiac arrest dataset.csv`  
