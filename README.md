@@ -53,3 +53,7 @@ Top features influencing predictions:
 ## Conclusion
 
 The **Random Forest model** outperforms Logistic Regression in predicting cardiac arrest. This model can provide early warning insights, helping in timely clinical intervention and risk management.
+
+## Dataset
+The dataset is included in this repository: [Cardiac Arrest Dataset](data/cardiac_arrest_dataset.csv)
+
