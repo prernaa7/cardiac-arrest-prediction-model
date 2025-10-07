@@ -1,4 +1,3 @@
-# cardiac-arrest-prediction-model
 
 # Cardiac Arrest Prediction Model
 
