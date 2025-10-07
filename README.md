@@ -66,6 +66,5 @@ This project uses machine learning to predict the likelihood of cardiac arrest i
 ## Dataset
 
 The dataset used for this project is the **Cardiac Arrest Dataset** from Kaggle:  
-[Cardiac Arrest Dataset on Kaggle](https://www.kaggle.com/datasets/leonidaskaragkounis/cardiac-arrest-dataset)
-
+[Cardiac Arrest Prediction on Kaggle](https://www.kaggle.com/code/leonidaskaragkounis/cardiac-arrest-prediction-xgb-random-forest)
 - **File used:** `cardiac arrest dataset.csv`  
