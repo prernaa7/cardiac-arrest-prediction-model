@@ -57,6 +57,6 @@ The **Random Forest model** outperforms Logistic Regression in predicting cardia
 ## Dataset
 
 The dataset used for this project is included in the repository (`/data/cardiac_arrest_dataset.csv`).  
-> Note: The original source of the dataset is unknown.
+
 
 
