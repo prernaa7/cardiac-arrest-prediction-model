@@ -1,5 +1,14 @@
 # cardiac-arrest-prediction-model
 
+# Cardiac Arrest Prediction Model
+
+This project uses machine learning to predict the likelihood of cardiac arrest in patients based on clinical features. Two models are implemented: **Logistic Regression** and **Random Forest**, with a focus on performance evaluation using key metrics and visualizations.
+
+## Visualizations & Insights
+
+### 1. Confusion Matrix
+
+Confusion matrix for the Random Forest model on the test set:
 
 - **True Positives (TP):** 101  
 - **True Negatives (TN):** 89  
